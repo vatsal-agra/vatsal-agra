@@ -71,25 +71,41 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsal-agra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal-agra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-agra&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+  <tr>
+    <td>🥈</td>
+    <td><b>GDG FlutterSprint Hackathon — 2nd Place</b><br/>Built MockMate under Google Developers Group</td>
+  </tr>
+  <tr>
+    <td>📦</td>
+    <td><b>10+ Projects Shipped</b><br/>Across AI/ML, mobile, web, automation, and games — all independently built</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><b>Production-Grade Agentic AI Systems</b><br/>Built and deployed autonomous multi-step AI pipelines as a 2nd year student</td>
+  </tr>
+  <tr>
+    <td>🏥</td>
+    <td><b>Real-World AI in Healthcare</b><br/>Deployed a LangChain OCR SaaS for clinical prescription summarisation</td>
+  </tr>
+  <tr>
+    <td>⌨️</td>
+    <td><b>120 WPM Typing Speed</b></td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+## 📈 What I'm Currently Working On
 
-- 🥈 **GDG FlutterSprint Hackathon — 2nd Place** — Built MockMate under Google Developers Group
-- ⌨️ **120 WPM** typing speed
-- 📦 **10+ projects shipped** across AI, mobile, web, automation, and games
-- 🤖 Built and deployed **production-grade agentic AI systems** independently as a 2nd year student
+```text
+🔍  Applying for AI/ML internships in Bangalore (May–July 2026)
+💻  DSA practice on LeetCode
+🛠️  Building more projects in agentic AI and automation
+📚  Deepening understanding of LLM internals and RAG architectures
+```
 
 ---
 
